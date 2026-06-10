@@ -1,6 +1,3 @@
-# homelab-cybersecurity
-Enterprise-style homelab focused on Windows Server, Active Directory, networking, virtualization, monitoring and cybersecurity, documenting a complete learning journey from infrastructure to Blue Team.
-
 # 🏢 SitexNow Homelab
 
 > **Building an enterprise infrastructure and cybersecurity lab from scratch while documenting every step of the learning journey.**
