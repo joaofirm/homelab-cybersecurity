@@ -1,5 +1,9 @@
 # 🎯 Learning Path
 
+> **This document represents my long-term learning roadmap in Infrastructure, DevOps and Cybersecurity.**
+>
+> **The objective is to combine formal education, industry certifications and hands-on experience through a continuously evolving enterprise homelab.**
+
 ## 📌 Purpose
 
 This document outlines my learning roadmap in Infrastructure and Cybersecurity.
