@@ -6,6 +6,10 @@ This directory contains a chronological record of my learning journey, documenti
 
 The purpose of this journal is to record not only what was built, but also the challenges faced, the solutions implemented and the lessons learned throughout the process.
 
+> This journal reflects a real learning journey.
+>
+> Some entries document technical implementations, while others record certification milestones, training programs and strategic decisions that contributed to my professional development.
+
 ---
 
 # 🎯 Objectives
