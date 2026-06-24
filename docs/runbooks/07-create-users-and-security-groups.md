@@ -24,10 +24,10 @@ User Accounts
 
 Create:
 
-* <>.admin
-* <>.user
-* <>.rh
-* <>.finance
+* joao.admin
+* joao.user
+* maria.rh
+* carlos.finance
 
 ---
 
@@ -57,11 +57,11 @@ Security
 
 Add:
 
-<>.admin → IT_Admins
+joao.admin → IT_Admins
 
-<>.rh → HR_Users
+maria.rh → HR_Users
 
-<>.finance → Finance_Users
+carlos.finance → Finance_Users
 
 ---
 
@@ -89,22 +89,22 @@ User Properties
 
 Expected:
 
-<>.admin
+joao.admin
 
 * Domain Users
 * IT_Admins
 
-<>.rh
+maria.rh
 
 * Domain Users
 * HR_Users
 
-<>.finance
+carlos.finance
 
 * Domain Users
 * Finance_Users
 
-<>.user
+joao.user
 
 * Domain Users
 
