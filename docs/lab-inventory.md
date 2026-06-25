@@ -17,7 +17,7 @@
 | -------- | ------------------- | ---------- |
 | DC01     | Domain Controller   | 🟢 Active  |
 | FW01     | pfSense Firewall    | 🔴 Planned |
-| CL01     | Windows 11 Client   | 🔴 Planned |
+| CL01     | Windows 11 Client   | 🟢 Active |
 | Ubuntu01 | Linux Server        | 🔴 Planned |
 | Zabbix   | Monitoring Server   | 🔴 Planned |
 | Wazuh    | Security Monitoring | 🔴 Planned |
